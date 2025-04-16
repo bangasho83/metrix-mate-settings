@@ -27,16 +27,16 @@
   {
     "client_name": "NOVU",
     "meta_account_id": "120658045",
-    "monthly_budget": 50000
+    "monthly_budget": 100000
   },
   {
     "client_name": "Shezan Bakers",
     "meta_account_id": "276427327283182",
-    "monthly_budget": 60000
+    "monthly_budget": 100000
   },
   {
     "client_name": "Amaltaas",
     "meta_account_id": "1165824728412594",
-    "monthly_budget": 70000
+    "monthly_budget": 150000
   }
 ]
