@@ -43,6 +43,10 @@
     "client_name": "ORDRZ PK",
     "meta_account_id": "306873011908520",
     "monthly_budget": 150000
+  },
+  {
+    "client_name": "Neamat Khana",
+    "meta_account_id": "1345393279538218",
+    "monthly_budget": 100000
   }
-  
 ]
