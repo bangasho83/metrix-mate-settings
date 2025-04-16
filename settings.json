@@ -1,40 +1,5 @@
 [
   {
-    "client_name": "Burger Bloc",
-    "meta_account_id": "1035644388567316",
-    "monthly_budget": 3000
-  },
-  {
-    "client_name": "AndShawarma",
-    "meta_account_id": "2709158579250981",
-    "monthly_budget": 1000
-  },
-  {
-    "client_name": "TAZA",
-    "meta_account_id": "1934878816631277",
-    "monthly_budget": 1500
-  },
-  {
-    "client_name": "Tezmart",
-    "meta_account_id": "474224379697300",
-    "monthly_budget": 2000
-  },
-  {
-    "client_name": "Be Sweet",
-    "meta_account_id": "1182968249842719",
-    "monthly_budget": 800
-  },
-  {
-    "client_name": "NOVU",
-    "meta_account_id": "120658045",
-    "monthly_budget": 50000
-  },
-  {
-    "client_name": "Shezan Bakers",
-    "meta_account_id": "276427327283182",
-    "monthly_budget": 60000
-  },
-  {
     "client_name": "Amaltaas",
     "meta_account_id": "1165824728412594",
     "monthly_budget": 70000
